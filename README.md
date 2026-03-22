@@ -1,5 +1,3 @@
 # zs-distro-pak
 
-> ZarishSphere distribution: pak
-
-Part of ZarishSphere Platform.
+Generated directly from internal PRD specification.
